@@ -8,12 +8,14 @@
 
 <h2>ListIt Class Diagram</h2>
 
-![Correlation Matrix](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/movie_feature_correlation_matrix.png)
+![Class Diagram](https://github.com/atocon/classified-advertisement-application-project/blob/main/images/list_it_class_diagram.png)
 
-<h2>ListIt Sequence Diagram</h2>
+<h2>ListIt Sequence Diagram 1:</h2>
+<p>Use case: The ListIt system is initialized for a user by reading in user and item listing data from the ListItDatabase.db file in parallel to create UserAccount and ItemListing objects which are added to the ListItUserDirectory and ListItItemDirectory for manipulation when the application is running.</p>
 
-![Correlation Matrix](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/movie_feature_correlation_matrix.png)
+![Sequence Diagram 1](https://github.com/atocon/classified-advertisement-application-project/blob/main/images/list_it_sequence_diagram1.png)
 
-<h2>ListIt Sequence Diagram</h2>
+<h2>ListIt Sequence Diagram 2:</h2>
+<p>Use case: The ListIt system is initialized for a user and a user creates an item listing by interacting with the console menu. The created VehicleListing object is inserted into the ListIt Database for long-term storage.</p>
 
-![Correlation Matrix](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/movie_feature_correlation_matrix.png)
+![Sequence Diagram 2](https://github.com/atocon/classified-advertisement-application-project/blob/main/images/list_it_sequence_diagram2.png)
