@@ -7,7 +7,10 @@
 <p>The ListIt System source code should be run from the Main class in its current form. The Main class provides a menu which exercises the functionality of ListIt. The current ListIt system allows buyers and sellers to login, create user accounts, browse item listings, create item listings, and logout. The ListIt application reads in user account and item listing data into the application in a concurrent manner to display a console menu to users. The ListIt System maintains a database of user account and item listing information to allow for long-term, durable storage.</p>
 
 <h2>ListIt Class Diagram</h2>
-<p></p>
+![Correlation Matrix](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/movie_feature_correlation_matrix.png)
 
 <h2>ListIt Sequence Diagram</h2>
-<p></p>
+![Correlation Matrix](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/movie_feature_correlation_matrix.png)
+
+<h2>ListIt Sequence Diagram</h2>
+![Correlation Matrix](https://github.com/atocon/predicting-movie-revenue-project/blob/main/images/movie_feature_correlation_matrix.png)
